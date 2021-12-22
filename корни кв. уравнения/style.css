@@ -1,0 +1,30 @@
+input {
+  width: 35px;
+  background: linear-gradient(90deg, #ff85e4 0%, #229efd 179.25%);
+}
+#result1 {
+  width: 100px;
+  background: linear-gradient(90deg, #209cff 0%, #68e0cf 100%);
+  border-radius: 10px;
+}
+#result2 {
+  background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+  width: 100px;
+  border-radius: 10px;
+}
+#button {
+  background: linear-gradient(90deg, #ff85e4 0%, #229efd 179.25%);
+  margin-top: 20px;
+  border-radius: 10px;
+}
+#elem {
+  text-align: center;
+}
+h1 {
+  background: rgb(190, 33, 33);
+  text-align: center;
+}
+#NonRes {
+  background: rgb(190, 33, 33);
+  border-radius: 10px;
+}
