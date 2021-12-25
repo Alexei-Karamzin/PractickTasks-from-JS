@@ -1,0 +1,22 @@
+input {
+  width: 35px;
+  background: linear-gradient(90deg, #cc0e0e 0%, #e7eb11 179.25%);
+}
+#elem {
+  text-align: center;
+}
+h1 {
+  background: rgb(228, 70, 201);
+  text-align: center;
+}
+#button {
+  width: 137px;
+}
+p {
+  text-align: center;
+  text-decoration: overline;
+}
+#result {
+  width: 130px;
+  background: linear-gradient(90deg, #8675e7 0%, #fc2afc 179.25%);
+}
